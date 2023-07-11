@@ -24,6 +24,9 @@ body{
     padding: 10px 10%;
 
 }
+.about-col-1{
+    margin-bottom: 10px;
+}
 
 nav{
     display: flex;
@@ -88,8 +91,9 @@ color: #abababa;
     flex-basis: 35%;
 }
 .about-col-1 img{
-    width: 15%;
-    border-radius: 15px;
+    width: 1px;
+    height: auto;
+    border-radius: 1px;
 }
 .about-col-2{
     flex-basis: 60%;
